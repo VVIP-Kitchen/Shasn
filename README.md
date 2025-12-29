@@ -6,4 +6,9 @@
 * Online multiplayer support with turn-based logic
 * Strategy-focused design preserving negotiation, power dynamics, and decision-making
 
+### Important Documents/Links:
+
+* [Shasn assets](https://photos.app.goo.gl/NWtpiZMbdJPUXJE1A)
+* [Shasn Analytics/Data](https://docs.google.com/spreadsheets/d/1l99jx9HoVPFFb9rkEzB603nUXqi78p1CkltWjUOYrz0/edit?usp=sharing)
+
 > This project is built for learning, experimentation, and group-driven innovation, and is **not affiliated with or endorsed by the original creators of Shasn**.
